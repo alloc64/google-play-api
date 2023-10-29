@@ -13,9 +13,9 @@
     "url": "https://github.com/facundoolano/google-play-api.git"
   },
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.17.1",
     "google-play-scraper": "file:../google-play-scraper"
-
   },
   "devDependencies": {
     "eslint": "^7.32.0",
